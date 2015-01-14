@@ -1,0 +1,2 @@
+kyle@chano:~/code/kernel$ cat /proc/modules 
+hello 12426 0 - Live 0x0000000000000000 (POF)
